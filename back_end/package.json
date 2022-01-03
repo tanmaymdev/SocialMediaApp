@@ -1,0 +1,31 @@
+{
+  "name": "hw6-backend-tanmaymdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiceWebDevCourse/hw6-backend-tanmaymdev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiceWebDevCourse/hw6-backend-tanmaymdev/issues"
+  },
+  "homepage": "https://github.com/RiceWebDevCourse/hw6-backend-tanmaymdev#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^3.0.0",
+    "md5": "^2.3.0",
+    "mongoose": "^6.0.12",
+    "mongoose-sequence": "^5.3.1"
+  }
+}

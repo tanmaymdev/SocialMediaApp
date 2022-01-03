@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate Articles Update --&amp;gt;" errors="0" tests="6" failures="0" time="0.807" timestamp="2021-11-18T11:13:22">
+  <testcase classname="Validate Articles Update --&amp;gt;" name="login user" time="0.106"></testcase>
+  <testcase classname="Validate Articles Update --&amp;gt;" name="Get User Articles" time="0.102"></testcase>
+  <testcase classname="Validate Articles Update --&amp;gt;" name="Add Article to user" time="0.255"></testcase>
+  <testcase classname="Validate Articles Update --&amp;gt;" name="get article of particular post id" time="0.062"></testcase>
+  <testcase classname="Validate Articles Update --&amp;gt;" name="get articles of loggedIn user" time="0.108"></testcase>
+  <testcase classname="Validate Articles Update --&amp;gt;" name="Update article of user if article belongs to user" time="0.171"></testcase>
+</testsuite>
+</testsuites>
